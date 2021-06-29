@@ -1,4 +1,8 @@
-### Hi there 👋
+### Udi Bar-On's Public GitHub Profile
+
+I'm currently working through some of Michael Hartl's Learn Enough to Be Dangerous Courses. Badges below...
+
+<a href="https://www.learnenough.com/certificates/ubaron"><img src="https://www.learnenough.com/certificates/ubaron/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 <!--
 **ubar-on/ubar-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
